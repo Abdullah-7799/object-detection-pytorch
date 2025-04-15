@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 - **Author**: [Abdullah Mahmoudian]
-- **Email**: freelanceabdullah83@example.com
+- **Email**: freelanceabdullah83@gmail.com
 - **GitHub**: [@Abdullah-7799](https://github.com/Abdullah-7799)
 - **LinkedIn**: [abdullah-mahmoudian](https://linkedin.com/in/abdullah-mahmoudian-9176b5338)
 - **Project Link**: https://github.com/Abdullah-7799/object-detection-pytorch

@@ -1,0 +1,19 @@
+# Model Config
+model:
+  backbone: "resnet50"       # Pretrained backbone
+  num_classes: 10            # Number of classes
+  anchors: [[10,13], [16,30], [33,23]]  # Anchor boxes
+
+# Data Config
+data:
+  train_path: "./data/dataset/train"
+  val_path: "./data/dataset/val"
+  batch_size: 16
+  img_size: 640              # Input image size
+
+# Training Config
+training:
+  epochs: 100
+  lr: 0.001
+  optimizer: "AdamW"
+  checkpoint_dir: "./checkpoints"
